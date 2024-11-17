@@ -1,6 +1,3 @@
-## 0x06. Star Wars API
+# alx-interview
 
-### Tasks
-
-** 0. Star Wars Characters**
-- A script that prints all characters of a Star Wars movie.
+*Introduction to the mock technical interview.*
